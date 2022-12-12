@@ -1,4 +1,4 @@
-This is the very best snake oil on the market.
+This is the VERY best snake oil on the market.
 
 It even cures **your** bad breath!
 
